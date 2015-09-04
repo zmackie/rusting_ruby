@@ -1,0 +1,8 @@
+[package]
+name = "scrape"
+version = "0.1.0"
+authors = ["Zander Mackie <zander@skilledup.com>"]
+
+[lib]
+name = "scrape"
+crate-type = ["dylib"]
